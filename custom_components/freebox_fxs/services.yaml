@@ -1,0 +1,7 @@
+ring_start:
+  name: Démarrer la sonnerie
+  description: Fait sonner le téléphone connecté au port FXS de la Freebox.
+
+ring_stop:
+  name: Arrêter la sonnerie
+  description: Arrête la sonnerie du téléphone FXS.

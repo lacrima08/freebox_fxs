@@ -1,0 +1,12 @@
+{
+  "domain": "freebox_fxs",
+  "name": "Freebox FXS Ring",
+  "codeowners": [],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/lacrima08/freebox_fxs",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/lacrima08/freebox_fxs/issues",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0"
+}
